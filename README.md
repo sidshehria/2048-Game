@@ -1,5 +1,6 @@
 # 2048-Game
 An easy 2048 Game on website where you can have fun!!
+game link --->  https://sidshehria.github.io/2048-Game/
 # Stack used
 - HTML
 - CSS
